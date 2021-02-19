@@ -3,3 +3,7 @@ This project was developed in course of Information Visualization. The main goal
 book/newspaper consumption and average time spent in reading of a given country in EU have impact in the average income in that country.
 ## Demo
 [https://maxjunior.github.io/InfoVisEdu/](https://maxjunior.github.io/InfoVisEdu/)
+## Contributors
+Margarida Morais
+Yasser Rossano
+Maxwell Junior

@@ -4,6 +4,6 @@ book/newspaper consumption and average time spent in reading of a given country 
 ## Demo
 [https://maxjunior.github.io/InfoVisEdu/](https://maxjunior.github.io/InfoVisEdu/)
 ## Contributors
-Margarida Morais
-Yasser Rossano
-Maxwell Junior
+- Margarida Morais
+- Yasser Rossano
+- Maxwell Junior
